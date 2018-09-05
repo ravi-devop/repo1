@@ -1,3 +1,0 @@
-this is my text file		
-add some text to this file
-add more text
